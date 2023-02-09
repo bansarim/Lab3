@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name = "first_email">Enter your Email address</string>
+    <string name = "password">Enter your Password</string>
+    <string name = "Login">Login</string>
+    <string name = "enter_name">Enter your name</string>
+    <string name = "takepic">Take picture</string>
+</resources>

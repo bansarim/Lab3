@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name = "first_email">તમારુ ઇમેઇલ એડ્રેસ દાખલ કરો</string>
+    <string name = "password">તમારો પાસવર્ડ નાખો</string>
+    <string name = "Login">પ્રવેશ કરો</string>
+    <string name = "enter_name">તમારું નામ દાખલ કરો</string>
+    <string name = "takepic">ફોટો પાડો</string>
+</resources>
